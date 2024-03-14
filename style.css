@@ -1,4 +1,14 @@
-body{
+.queijo{
     background: #000000;
-    color:white
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+.PÃO{
+    width: 20%;
+
+}
+.presunto{
+
+
 }
