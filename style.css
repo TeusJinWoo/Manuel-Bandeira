@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .queijo{
     background: #000000;
     color:white;
@@ -5,10 +9,12 @@
     justify-content: space-around;
 }
 .PÃO{
-    width: 20%;
+    width: 10%;
 
 }
 .hamburger{
    display: inline-block;
+   margin: 0 16px;
+   padding: 24px 0;
 
 }
