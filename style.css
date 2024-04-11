@@ -19,12 +19,27 @@
    font-size: 24px;
 }
 .ovo{
-    width: 19%;
+    width: 30%;
 
 }
 .cheddar{
     background-color: black;
     color: whitesmoke;
-    display flex
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+.alface{
+    width: 45%;
+
+}
+.tomate{
+    padding: 24px 0;
+
+}
+body{
+    font-family: 'Bungee+Spice' sans-serif; 
 
 }
